@@ -6,6 +6,7 @@ Django==3.2.9
 django-cors-headers==3.10.0
 django-filter==21.1
 djangorestframework==3.12.4
+gunicorn==20.1.0
 idna==3.3
 importlib-metadata==4.8.2
 Markdown==3.3.6
